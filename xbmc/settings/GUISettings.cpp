@@ -801,6 +801,8 @@ void CGUISettings::Initialize()
   AddString(sub, "subtitles.charset", 735, "DEFAULT", SPIN_CONTROL_TEXT);
   AddBool(sub,"subtitles.overrideassfonts", 21368, false);
   AddSeparator(sub, "subtitles.sep1");
+  AddBool(sub, "subtitles.pauseonsearch", 31415, true);
+  AddBool(sub, "subtitles.savetomoviefolder", 31414, true);
   AddPath(sub, "subtitles.custompath", 21366, "", BUTTON_CONTROL_PATH_INPUT, false, 657);
 
   map<int, int> subtitleAlignments;

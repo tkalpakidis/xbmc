@@ -25,6 +25,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		1824A49D16EFCB4000443BA4 /* GUIDialogSubtitles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1824A49B16EFCB4000443BA4 /* GUIDialogSubtitles.cpp */; };
 		183FDF8A11AF0B0500B81E9C /* PluginSource.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183FDF8811AF0B0500B81E9C /* PluginSource.cpp */; };
 		18404DA61396C31B00863BBA /* SlingboxLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18404DA51396C31B00863BBA /* SlingboxLib.a */; };
 		1840B74D13993D8A007C848B /* JSONVariantParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1840B74B13993D8A007C848B /* JSONVariantParser.cpp */; };
@@ -1062,6 +1063,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1824A49B16EFCB4000443BA4 /* GUIDialogSubtitles.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GUIDialogSubtitles.cpp; sourceTree = "<group>"; };
+		1824A49C16EFCB4000443BA4 /* GUIDialogSubtitles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GUIDialogSubtitles.h; sourceTree = "<group>"; };
 		18308CB41303370800AA309E /* stat_utf8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stat_utf8.h; sourceTree = "<group>"; };
 		18308CB51303370800AA309E /* stdio_utf8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdio_utf8.h; sourceTree = "<group>"; };
 		183FDF8811AF0B0500B81E9C /* PluginSource.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PluginSource.cpp; sourceTree = "<group>"; };
@@ -3951,6 +3954,8 @@
 				E38E17D90D25F9FA00618676 /* GUIDialogSmartPlaylistRule.h */,
 				E38E17DC0D25F9FA00618676 /* GUIDialogSubMenu.cpp */,
 				E38E17DD0D25F9FA00618676 /* GUIDialogSubMenu.h */,
+				1824A49B16EFCB4000443BA4 /* GUIDialogSubtitles.cpp */,
+				1824A49C16EFCB4000443BA4 /* GUIDialogSubtitles.h */,
 				F50FDC59119B4B2C00C8B8CD /* GUIDialogTextViewer.cpp */,
 				F50FDC58119B4B2C00C8B8CD /* GUIDialogTextViewer.h */,
 				E38E17EA0D25F9FA00618676 /* GUIDialogVolumeBar.cpp */,
@@ -7740,6 +7745,7 @@
 				F56352C816E5436900D21BAD /* AppParamParser.cpp in Sources */,
 				F56353BF16E9BB3500D21BAD /* BitstreamConverter.cpp in Sources */,
 				DFAF6A4F16EBAE3800D6AE12 /* RssManager.cpp in Sources */,
+				1824A49D16EFCB4000443BA4 /* GUIDialogSubtitles.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
