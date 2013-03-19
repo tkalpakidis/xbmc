@@ -295,7 +295,7 @@
 						<control type="image">
 							<width>40</width>
 							<height>40</height>
-							<texture>Subtitles/default_icon_info.png</texture>
+							<texture>DefaultIconInfo.png</texture>
 						</control>
 						<control type="label">
 							<description>notification</description>
