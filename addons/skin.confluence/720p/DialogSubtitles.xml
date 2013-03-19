@@ -332,7 +332,7 @@
 					<posy>150</posy>
 					<width>240</width>
 					<height>26</height>
-					<label>[B]$LOCALIZE[SCRIPT760][/B]</label>
+					<label>[B]$LOCALIZE[24018][/B]</label>
 					<font>font13</font>
 					<align>center</align>
 					<aligny>top</aligny>
